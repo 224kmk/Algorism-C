@@ -18,5 +18,14 @@
     <ClCompile Include="20200921-struct.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="IntStack.h">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IntStack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="IntStackTest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
