@@ -31,6 +31,7 @@ int Deque(IntQueue* q, int* x) {
     if (q->num <= 0)   // que가 비어있음
         return -1;
     else {
+        q->num--;
         *x = q->que[q->front++];
         if (q->front == q->max)
             q->front = 0;
@@ -95,3 +96,4 @@ void Terminate(IntQueue* q) {
         free(q->que);      // 메모리 공간에 할당한 배열 해제
     q->max = q->num = q->front = q->rear = 0;
 }
+

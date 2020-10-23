@@ -13,7 +13,7 @@ int gcd(int x, int y)
     else
     {
         printf("gcd ÁøÃâ : %d\n", y);
-        return gcd(y, x % y);
+        return gcd(x, x % y);
     }
 }
 
@@ -29,3 +29,5 @@ int main()
 
     return 0;
 }
+
+

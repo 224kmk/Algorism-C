@@ -24,7 +24,7 @@ int Push(IntStack* s, int x) {
 
 // 데이터 팝
 int Pop(IntStack* s, int* x) {
-    if (s->ptr <= 0)
+    if (s->ptr <= s->max)
         return -1;
     *x = s->stk[--s->ptr];
     return 0;
@@ -85,3 +85,9 @@ void Terminate(IntStack* s) {
         free(s->stk);
     s->max = s->ptr = 0;
 }
+
+stack의 검색
+for (i=s->ptr -1; i>=0; i--) top에서 바텀으로 선형검색
+    if (s->stk[i] == x)
+        return i
+return -1

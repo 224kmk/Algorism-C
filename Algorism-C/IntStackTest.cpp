@@ -34,6 +34,7 @@ int main(void)
             break;
 
         case 3: // 피크
+
             if (Peek(&s, &x) == -1)
                 printf("\a오류 : 피크에 실패하였습니다.\n");
             else

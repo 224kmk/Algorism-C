@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\배열 공부">
+      <UniqueIdentifier>{21345e95-ae1b-4932-8422-fbb7d2460186}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20200921-struct.cpp">
@@ -49,6 +52,33 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="20201016 버블 정렬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="기본 알고리즘 공부.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 공부%28소수 구하기%29.cpp">
+      <Filter>소스 파일\배열 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 공부%28난수%29.cpp">
+      <Filter>소스 파일\배열 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 공부%28교환%29.cpp">
+      <Filter>소스 파일\배열 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 공부%28진수 변환%29.cpp">
+      <Filter>소스 파일\배열 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 공부 %28소수 구하기 짝수제거%29.cpp">
+      <Filter>소스 파일\배열 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 공부%28소수 구하기 제곱근%29.cpp">
+      <Filter>소스 파일\배열 공부</Filter>
+    </ClCompile>
+    <ClCompile Include="검색 공부.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20201019 선택 정렬, 삽입 정렬.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
