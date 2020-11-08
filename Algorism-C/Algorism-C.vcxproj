@@ -196,10 +196,19 @@
     <ClCompile Include="검색 공부.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="20201019 선택 정렬, 삽입 정렬.cpp" />
-    <ClCompile Include="20201030 셸 정렬.cpp" />
-    <ClCompile Include="20201102 퀵 정렬%28배열 나누기%29.cpp" />
-    <ClCompile Include="20201102 퀵 정렬%28메인%29.cpp" />
+    <ClCompile Include="20201019 선택 정렬, 삽입 정렬.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="20201030 셸 정렬.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="20201102 퀵 정렬%28배열 나누기%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="20201102 퀵 정렬%28메인%29.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
