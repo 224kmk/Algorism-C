@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\배열 공부">
       <UniqueIdentifier>{21345e95-ae1b-4932-8422-fbb7d2460186}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{942ae5b5-9e36-4cfd-a9fc-c25b023a76eb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20200921-struct.cpp">
@@ -45,15 +48,6 @@
     <ClCompile Include="20201016 재귀알고리즘 유클리드 호제법.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="20201016 버블 정렬 개선 1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20201016 버블 정렬 개선 2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20201016 버블 정렬.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="기본 알고리즘 공부.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -78,23 +72,35 @@
     <ClCompile Include="검색 공부.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20201016 버블 정렬 개선 1.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="20201016 버블 정렬 개선 2.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="20201016 버블 정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
     <ClCompile Include="20201019 선택 정렬, 삽입 정렬.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\정렬</Filter>
     </ClCompile>
     <ClCompile Include="20201030 셸 정렬.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="20201102 퀵 정렬%28배열 나누기%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\정렬</Filter>
     </ClCompile>
     <ClCompile Include="20201102 퀵 정렬%28메인%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="20201102 퀵 정렬%28배열 나누기%29.cpp">
+      <Filter>소스 파일\정렬</Filter>
     </ClCompile>
     <ClCompile Include="20201106 병합 정렬%28병합 프로그램%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\정렬</Filter>
     </ClCompile>
     <ClCompile Include="20201109 병합 정렬%28메인%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="20201113 힙 정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
