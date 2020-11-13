@@ -93,5 +93,8 @@
     <ClCompile Include="20201106 병합 정렬%28병합 프로그램%29.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20201109 병합 정렬%28메인%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
