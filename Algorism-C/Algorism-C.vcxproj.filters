@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\정렬">
       <UniqueIdentifier>{942ae5b5-9e36-4cfd-a9fc-c25b023a76eb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\집합">
+      <UniqueIdentifier>{5d799690-f354-42d9-8e35-790c1856faab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20200921-struct.cpp">
@@ -101,6 +104,21 @@
     </ClCompile>
     <ClCompile Include="20201113 힙 정렬.cpp">
       <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="20201116 도수 정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="IntSet.h">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="IntSet.cpp">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="IntSetTest1.cpp">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="IntSetTest2.cpp">
+      <Filter>소스 파일\집합</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
