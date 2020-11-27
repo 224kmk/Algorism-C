@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\집합">
       <UniqueIdentifier>{5d799690-f354-42d9-8e35-790c1856faab}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\문자열 검색">
+      <UniqueIdentifier>{80ab3893-02df-4be5-9daf-790fd60067cf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20200921-struct.cpp">
@@ -118,6 +121,33 @@
       <Filter>소스 파일\집합</Filter>
     </ClCompile>
     <ClCompile Include="IntSetTest2.cpp">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="202021123 포인터와 문자열.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="202021123 포인터와 문자열 2.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="20201123 문자열 길이 검색.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="20201123 문자열 문자 검색.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="20201127 문자열 비교 strcmp.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="BitSet.h">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="20201127 strcmp 사용.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="BitSet.cpp">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="BitSetTest.cpp">
       <Filter>소스 파일\집합</Filter>
     </ClCompile>
   </ItemGroup>
