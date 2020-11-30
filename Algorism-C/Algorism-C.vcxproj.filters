@@ -123,12 +123,6 @@
     <ClCompile Include="IntSetTest2.cpp">
       <Filter>소스 파일\집합</Filter>
     </ClCompile>
-    <ClCompile Include="202021123 포인터와 문자열.cpp">
-      <Filter>소스 파일\문자열 검색</Filter>
-    </ClCompile>
-    <ClCompile Include="202021123 포인터와 문자열 2.cpp">
-      <Filter>소스 파일\문자열 검색</Filter>
-    </ClCompile>
     <ClCompile Include="20201123 문자열 길이 검색.cpp">
       <Filter>소스 파일\문자열 검색</Filter>
     </ClCompile>
@@ -151,6 +145,18 @@
       <Filter>소스 파일\집합</Filter>
     </ClCompile>
     <ClCompile Include="20201127 문자열 비교 strncmp.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="20201123 포인터와 문자열.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="20201123 포인터와 문자열 2.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="20201130 브루트-포스법.cpp">
+      <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="20201130 KMP법.cpp">
       <Filter>소스 파일\문자열 검색</Filter>
     </ClCompile>
   </ItemGroup>
