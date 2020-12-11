@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\문자열 검색">
       <UniqueIdentifier>{80ab3893-02df-4be5-9daf-790fd60067cf}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\해시">
+      <UniqueIdentifier>{d1da149d-32ad-4ff7-a98f-1f36e0c5b442}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20200921-struct.cpp">
@@ -161,6 +164,30 @@
     </ClCompile>
     <ClCompile Include="20201204 Boyer-moore법.cpp">
       <Filter>소스 파일\문자열 검색</Filter>
+    </ClCompile>
+    <ClCompile Include="Member.h">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="Member.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="ChainHash.h">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="ChainHash.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="ClosedHash.h">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="ClosedHash.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="Chaining.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="ClosedHashTest.cpp">
+      <Filter>소스 파일\해시</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
