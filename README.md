@@ -1,2 +1,3 @@
-# Algorism-C
-Algorism
+# Algorithm-C 
+
+Study_Algorithm
