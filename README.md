@@ -1,3 +1,3 @@
 # Algorithm-C 
 
-Study_Algorithm
+Study about Algorithm
